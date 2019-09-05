@@ -1,3 +1,5 @@
+https://www.meetup.com/OpenLate/events/219866460/?a=socialmedia#
+
 # Security_Ninjas_AppSec_Training
 OpenDNS Security Ninjas AppSec Training
 
